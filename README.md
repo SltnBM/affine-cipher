@@ -1,18 +1,18 @@
-# Affine Cipher (Case-Sensitive)
+# 🔐 Affine Cipher
 A simple Python script to encrypt and decrypt text using the **Affine Cipher** method.
 This script supports both uppercase and lowercase letters, preserves non-alphabetic characters, and allows the user to input plaintext and keys directly.
 
-## Features
+## ✨ Features
 - User-defined keys `(a, b)` with validation (`a` must be coprime with 26).
 - Case-sensitive encryption and decryption (keeps uppercase and lowercase).
 - Non-alphabetic characters are preserved as-is.
 - Interactive user input for plaintext and keys.
 
-## Requirements
+## ⚙️ Requirements
 - Python 3.x
 - No external libraries required.
 
-## How to Use
+## 🚀 How to Use
 1. Make sure you have Python installed (Python 3 or higher recommended). Download it from [python.org](https://www.python.org/downloads/).
 2. Clone this repository
 ```bash
@@ -27,8 +27,8 @@ cd affine-cipher
 python main.py
 ```
 
-## Connect With Me
+## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin\&logoColor=white\&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
 
-## License
+## 📄 License
 This project is open-source and free to use.
