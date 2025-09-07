@@ -6,6 +6,7 @@ This script supports both uppercase and lowercase letters, preserves non-alphabe
 - 🔑 User-defined keys `(a, b)` with validation (`a` must be coprime with 26).
 - 🔠 Non-alphabetic characters are preserved as-is.
 - ⌨️ Interactive user input for plaintext and keys.
+- 🧮 Displays step-by-step calculation during encryption and decryption.
 
 ## ⚙️ Requirements
 - 🐍 Python 3.x
